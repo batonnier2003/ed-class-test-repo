@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1655399848,,"wq"
+|2,0,1655401336,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,56 @@
 # Registers:
 
 # File marks:
-'0  2  35  ~/rabbit
-|4,48,2,35,1655399848,"~/rabbit"
+'0  1  35  ~/player.php
+|4,48,1,35,1655401336,"~/player.php"
+'1  2  14  ~/index.hrml
+|4,49,2,14,1655400558,"~/index.hrml"
+'2  2  35  ~/rabbit
+|4,50,2,35,1655399848,"~/rabbit"
 
 # Jumplist (newest first):
+-'  1  35  ~/player.php
+|4,39,1,35,1655401336,"~/player.php"
+-'  2  14  ~/index.hrml
+|4,39,2,14,1655400558,"~/index.hrml"
+-'  2  14  ~/index.hrml
+|4,39,2,14,1655400558,"~/index.hrml"
+-'  1  0  ~/index.hrml
+|4,39,1,0,1655400544,"~/index.hrml"
+-'  1  0  ~/index.hrml
+|4,39,1,0,1655400544,"~/index.hrml"
+-'  2  35  ~/rabbit
+|4,39,2,35,1655399848,"~/rabbit"
+-'  2  35  ~/rabbit
+|4,39,2,35,1655399848,"~/rabbit"
+-'  2  35  ~/rabbit
+|4,39,2,35,1655399848,"~/rabbit"
 -'  2  35  ~/rabbit
 |4,39,2,35,1655399848,"~/rabbit"
 -'  1  0  ~/rabbit
 |4,39,1,0,1655399687,"~/rabbit"
+-'  1  0  ~/rabbit
+|4,39,1,0,1655399687,"~/rabbit"
+-'  1  0  ~/rabbit
+|4,39,1,0,1655399687,"~/rabbit"
+-'  1  0  ~/rabbit
+|4,39,1,0,1655399687,"~/rabbit"
 
 # History of marks within files (newest to oldest):
+
+> ~/player.php
+	*	1655401333	0
+	"	1	35
+	^	1	36
+	.	1	35
+	+	1	35
+
+> ~/index.hrml
+	*	1655400555	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
 
 > ~/rabbit
 	*	1655399846	0
